@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'afShareSDKManage'
-  s.version          = '0.1.0'
+  s.version          = '0.2.0'
   s.summary          = '第一次创业四个学生没钱，发不起工资，吃不上饭。创业过程中最痛苦的就是没钱，特别不主张大学生创业，生存压力下很容易走向邪路。'
 
 # This description is used to generate tags and improve search results.
@@ -23,7 +23,7 @@ Pod::Spec.new do |s|
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { '魏恒' => 'weiheng8505@163.com' }
-  s.source           = { :git => 'https://github.com/LearnSource/afShareSDKManage.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://LearnSource@github.com/LearnSource/afShareSDKManage.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'

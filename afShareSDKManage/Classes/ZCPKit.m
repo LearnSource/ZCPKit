@@ -9,5 +9,7 @@
 #import "ZCPKit.h"
 
 @implementation ZCPKit
-
+-(void)print{
+    NSLog(@"%@",@"0.2.0");
+}
 @end
